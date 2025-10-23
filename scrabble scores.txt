@@ -1,0 +1,13 @@
+blank = ["","Blank Tiles","blank time"]
+one = ["A","E","I","O","U","L","N","R","S","T"]
+two = ["D","G"]
+three = ["B","C","M","P"]
+four = ["F","H","W","Y","V"]
+five = ["K"]
+eight = ["J","X"]
+ten = ["Q","Z"]
+def tile_worth (tile):
+    match worth:
+        case one:
+            worth = 
+        
